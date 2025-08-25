@@ -1,0 +1,34 @@
+Month,Year,Units_Sold,Revenue_INR_Lakhs,Market_Share_Percent,Region,Product_Model,Customer_Segment,Marketing_Spend_Lakhs,Key_Initiatives
+January,2023,1250,875.50,12.5,North,Vida V1,Premium,45.2,Digital Marketing Campaign
+February,2023,1420,994.00,13.8,North,Vida V1,Premium,52.1,Showroom Expansion
+March,2023,1680,1176.00,15.2,North,Vida V1 Pro,Premium,58.9,Partnership with Tech Companies
+April,2023,1890,1323.00,16.1,West,Vida V1,Premium,62.3,Sustainability Campaign
+May,2023,2150,1505.00,17.8,West,Vida V1 Pro,Premium,68.7,Charging Infrastructure
+June,2023,2380,1666.00,19.2,South,Vida V1,Mid-Segment,72.4,Regional Expansion
+July,2023,2650,1855.00,20.5,South,Vida V1 Pro,Mid-Segment,78.1,Festival Season Campaign
+August,2023,2920,2044.00,21.8,East,Vida V1,Mid-Segment,84.6,Urban Mobility Focus
+September,2023,3180,2226.00,23.1,East,Vida V1 Pro,Premium,89.2,Service Network Expansion
+October,2023,3450,2415.00,24.3,Pan-India,Vida V1 Plus,Premium,95.8,New Model Launch
+November,2023,3720,2604.00,25.6,Pan-India,Vida V1 Plus,Premium,102.4,Year-end Promotions
+December,2023,4100,2870.00,26.9,Pan-India,All Models,All Segments,110.3,Holiday Season Push
+
+Strategy_Focus,Target_Demographic,Key_Metrics,Growth_Target_2024,Investment_Areas,Competitive_Advantage
+Urban Millennials,Age 25-40 Tech-savvy,Customer Satisfaction 4.2/5,40% YoY Growth,R&D Battery Technology,Smart Connectivity Features
+Sustainability Focus,Environmentally Conscious,Range 120km per charge,Market Share 35%,Charging Network,Zero Emission Promise
+Premium Experience,High Income Urban,Service Rating 4.5/5,Revenue Growth 50%,Service Centers,Premium Design
+Technology Integration,Early Adopters,App Downloads 250K,User Base 1M,Software Development,IoT Integration
+Regional Expansion,Tier 2/3 Cities,Dealer Network 500+,Geographic Coverage 80%,Distribution Network,Local Partnerships
+
+Key_Challenges,Mitigation_Strategy,Timeline,Investment_Required_Crores,Expected_Impact,Risk_Level
+Battery Supply Chain,Domestic Manufacturing,18 months,150,Reduced Import Dependency,Medium
+Charging Infrastructure,Public-Private Partnerships,24 months,200,Improved Customer Confidence,High
+Competition from ICE,Aggressive Pricing Strategy,12 months,80,Market Share Protection,Medium
+Regulatory Changes,Government Relations,6 months,25,Policy Compliance,Low
+Customer Awareness,Marketing Campaigns,18 months,120,Brand Recognition,Medium
+
+Financial_Projections,Q1_2024,Q2_2024,Q3_2024,Q4_2024,Full_Year_2024,Growth_Rate
+Revenue_Crores,125.5,156.2,189.8,234.7,706.2,35%
+Units_Sold,8950,11180,13560,16740,50430,38%
+Market_Share,18.2%,21.5%,24.8%,28.3%,25.5%,8.6pp
+EBITDA_Margin,8.5%,11.2%,14.6%,17.8%,13.0%,4.5pp
+Investment_CAPEX,45.2,52.8,61.5,68.9,228.4,40%
